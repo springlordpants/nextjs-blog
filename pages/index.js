@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>Learning Next.js</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello! I'm Byron and I'm learning Next Js using this tutorial</p>
